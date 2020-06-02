@@ -9,6 +9,7 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 - [Kyslik/column-sortable](https://github.com/Kyslik/column-sortable) - Package for handling column sorting in Laravel 5.(5-8)
 
 ### Debug
+- [Laravel Query Monitor](https://github.com/supliu/laravel-query-monitor) - Supliu Laravel Query Monitor is library to monitoring Queries in real-time using Laravel Artisan Command
 - [MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 
 ### Development Setup
