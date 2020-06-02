@@ -10,5 +10,5 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 ### Debug
 - [MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 
-### StartProject
+### Development Setup
 - [phpdocker](https://phpdocker.io/generator) - PHP development environment generator built with Docker containers
