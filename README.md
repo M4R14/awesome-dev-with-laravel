@@ -1,9 +1,6 @@
 # Awesome Dev with Laravel
 Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel)
 
-### BookMark
-- [Laravel Schematics](https://github.com/mtolhuys/laravel-schematics) - Make multiple diagrams of your Eloquent models and their relations.
-
 ### Packages
 - [Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) - Excel exports and imports in Laravel 
 - [Laravel log viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - Log Viewer for Laravel 5, 6 & 7 (still compatible with 4.2 too) and Lumen.
@@ -21,3 +18,7 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 ### Etc
 - [Animate.css](https://animate.style/) - Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
 - [Google Fonts](https://fonts.google.com/)
+
+### Todo
+- [ ] [Laravel Schematics](https://github.com/mtolhuys/laravel-schematics) - Make multiple diagrams of your Eloquent models and their relations.
+- [ ] [Laravel Passwordless Login](https://github.com/grosv/laravel-passwordless-login) - A simple, safe magic login link generator for Laravel
