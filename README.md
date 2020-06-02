@@ -15,4 +15,5 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 - [phpdocker](https://phpdocker.io/generator) - PHP development environment generator built with Docker containers
 
 ### Etc
+- [Animate.css](https://animate.style/) - Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
 - [Google Fonts](https://fonts.google.com/)
