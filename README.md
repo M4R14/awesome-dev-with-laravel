@@ -20,6 +20,7 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 - [Google Fonts](https://fonts.google.com/)
 
 ### Todo
+- [ ] [Laravel Stats](https://github.com/stefanzweifel/laravel-stats) - Get insights about your Laravel or Lumen Project.
 - [ ] [laravel-initializer](https://github.com/mad-web/laravel-initializer)
 - [ ] [Laravel Schematics](https://github.com/mtolhuys/laravel-schematics) - Make multiple diagrams of your Eloquent models and their relations.
 - [ ] [Laravel Passwordless Login](https://github.com/grosv/laravel-passwordless-login) - A simple, safe magic login link generator for Laravel
