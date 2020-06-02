@@ -13,3 +13,6 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 
 ### Development Setup
 - [phpdocker](https://phpdocker.io/generator) - PHP development environment generator built with Docker containers
+
+### Etc
+- [Google Fonts](https://fonts.google.com/)
