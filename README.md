@@ -1,6 +1,8 @@
 # Awesome Dev with Laravel
 Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel)
 
+style of code use [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php)
+
 ### Packages
 - [Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) - Excel exports and imports in Laravel 
 - [Laravel log viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - Log Viewer for Laravel 5, 6 & 7 (still compatible with 4.2 too) and Lumen.
