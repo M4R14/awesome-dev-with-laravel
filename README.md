@@ -16,6 +16,7 @@ style of code use [jupeter/clean-code-php](https://github.com/jupeter/clean-code
 - [MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 
 ### Development Setup
+- [laravel-deployer](https://github.com/lorisleiva/laravel-deployer) - Laravel Deployer is a lightweight wrapper of Deployer.org giving Artisan the power of zero-downtime deployment.
 - [phpdocker](https://phpdocker.io/generator) - PHP development environment generator built with Docker containers
 
 ### Code Quality
