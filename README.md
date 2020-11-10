@@ -24,9 +24,6 @@ style of code use [jupeter/clean-code-php](https://github.com/jupeter/clean-code
 ### Code Quality
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
 
-### Etc
-- [Animate.css](https://animate.style/) - Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
-- [Google Fonts](https://fonts.google.com/)
 
 ### Todo
 - [ ] [Laravel Stats](https://github.com/stefanzweifel/laravel-stats) - Get insights about your Laravel or Lumen Project.
@@ -34,7 +31,11 @@ style of code use [jupeter/clean-code-php](https://github.com/jupeter/clean-code
 - [ ] [Laravel Schematics](https://github.com/mtolhuys/laravel-schematics) - Make multiple diagrams of your Eloquent models and their relations.
 - [ ] [Laravel Passwordless Login](https://github.com/grosv/laravel-passwordless-login) - A simple, safe magic login link generator for Laravel
 
-## Article
+## Articles
 ### Clean Code
 - [Writing cleaner code in Laravel](https://sohambanerjee.me/2020/06/26/clean-code-laravel/)
 - [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php)
+
+## ETC
+- [Animate.css](https://animate.style/) - Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints.
+- [Google Fonts](https://fonts.google.com/)
