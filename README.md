@@ -3,6 +3,8 @@ Inspired by [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-l
 
 style of code use [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php)
 
+## Tools
+
 ### Packages
 - [SEOTools](https://github.com/artesaos/seotools) - SEOTools - SEO Tools for Laravel and Lumen
 - [Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel) - Excel exports and imports in Laravel 
@@ -31,3 +33,8 @@ style of code use [jupeter/clean-code-php](https://github.com/jupeter/clean-code
 - [ ] [laravel-initializer](https://github.com/mad-web/laravel-initializer)
 - [ ] [Laravel Schematics](https://github.com/mtolhuys/laravel-schematics) - Make multiple diagrams of your Eloquent models and their relations.
 - [ ] [Laravel Passwordless Login](https://github.com/grosv/laravel-passwordless-login) - A simple, safe magic login link generator for Laravel
+
+## Article
+### Clean Code
+- [Writing cleaner code in Laravel](https://sohambanerjee.me/2020/06/26/clean-code-laravel/)
+- [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php)
